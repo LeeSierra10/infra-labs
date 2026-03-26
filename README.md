@@ -12,6 +12,8 @@ Este repositorio contiene laboratorios prácticos relacionados con:
 ### LAB 01 - Active Directory
 Implementación de un dominio en Windows Server.
 
+[Ver laboratorio](./LAB-01-active-directory)
+
 ### LAB 02 - Networking básico
 Configuración de red y conectividad.
 
