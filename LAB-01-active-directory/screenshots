@@ -1,1 +1,22 @@
 
+## Evidencia
+
+### Instalación de Windows Server
+
+![Instalación](screenshots/server-install.png)
+
+### Active Directory instalado
+
+![AD](screenshots/ad-installed.png)
+
+### Dominio creado
+
+![Dominio](screenshots/domain-created.png)
+
+### OU creadas
+
+![OU](screenshots/ou-created.png)
+
+### Usuarios creados
+
+![Usuarios](screenshots/users-created.png)
